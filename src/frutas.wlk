@@ -3,4 +3,13 @@ object manzana {
 	
 }
 
-// más frutas!
+object mandarina  {
+	//completar
+	
+}
+
+
+object banana  {
+	//completar
+	
+}
